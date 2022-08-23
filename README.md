@@ -2,7 +2,6 @@
     <img src="https://avatars3.githubusercontent.com/u/46326568?s=400&amp;u=15e4a4988014780288d30ffb969fd1569fec23e6&amp;v=4" width="128px" style="max-width:100%;">
     <h1>PreMiD Presences</h1>
 </div>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 This repository contains the source code of all presences that are available in PreMiD Store. If you would like to <strong>publish</strong> your presence, please feel free to open a <a href="https://github.com/PreMiD/Presences/pulls">pull request</a>.
 
@@ -41,6 +40,7 @@ presence
 ├── iframe.ts
 └── tsconfig.json
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MSLeyon/Presences)
 
 ---
 
